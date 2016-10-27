@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+ <settings>
+   <cameraID>0</cameraID>
+   <screenWidth>1440</screenWidth>
+   <screenHeight>900</screenHeight>
+   <fontSize>72</fontSize>
+   <titleFontSize>36</titleFontSize>
+   <titleWpm>10</titleWpm>
+   <useCamera>0</useCamera>
+   <wpm>600</wpm>
+   <fontName name="Torquera.ttf"></fontName>
+</settings>
